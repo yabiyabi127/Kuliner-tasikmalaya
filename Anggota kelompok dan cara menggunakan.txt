@@ -1,0 +1,8 @@
+Ketua kelompok : Hari kurniawan		10117269
+anggota		:  ilhamuddin zuhdi	10117261
+		   elsa meilani		10117252
+                   syamsyul huda	10117259
+                   ichsan nugraha	10117267
+
+url dashboard admin 				:http://localhost:8080/admin/
+url beranda untuk di tampilkan ke pengguna 	:http://localhost:8080
